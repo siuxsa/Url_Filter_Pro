@@ -2,7 +2,7 @@
 
 A powerful terminal-based tool for intelligent URL filtering with multiple filtering strategies and colorful interface.
 
-![Demo Banner](https://raw.githubusercontent.com/siuxsa/Url_Filter_Pro/refs/heads/main/Assest/Screenshot%202025-03-05%20223425.png)
+![Demo Banner](https://raw.githubusercontent.com/siuxsa/Url_Filter_Pro/refs/heads/main/assets/Screenshot%202025-03-05%20223425.png)
 
 ## Features 🚀
 
